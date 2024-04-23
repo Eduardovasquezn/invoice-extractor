@@ -15,7 +15,7 @@ To utilize the Invoice Extractor application, follow these steps:
 
 1. **Clone the repository:** `git clone https://github.com/Eduardovasquezn/invoice-extractor.git`
 2. **Navigate to the project directory:** `cd invoice-extractor`
-3. **Create a virtual environment:** python -m venv venv venv/Scripts/activate
+3. **Create a virtual environment:** `python -m venv venv venv/Scripts/activate`
 4. **Install dependencies:** `pip install -r requirements.txt`
 5. **Set up environment variables:** Create a `.env` file based on the `.env.example` template and fill in the required values.
 6. **Run the application:** Execute `streamlit run src/app.py` in your terminal.
